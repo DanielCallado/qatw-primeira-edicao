@@ -1,0 +1,26 @@
+{
+  "name": "qatw-primeira-edicao",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao repositório do **QA Tech Week - Primeira Edição**! Aqui você encontrará as instruções para configurar o ambiente, subir os serviços necessários e rodar os testes automatizados com Playwright.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCallado/qatw-primeira-edicao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielCallado/qatw-primeira-edicao/issues"
+  },
+  "homepage": "https://github.com/DanielCallado/qatw-primeira-edicao#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  },
+  "dependencies": {
+    "bullmq": "^5.58.0",
+    "pg-promise": "^11.15.0"
+  }
+}
