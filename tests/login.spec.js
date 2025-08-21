@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 
 import { obterCodigo2FA } from '../support/db';
 
-import { LoginPage } from '../pages/loginpage';
+import { LoginPage } from '../pages/LoginPage';
 import { DashPage } from '../pages/DashPage';
 
 import { cleanJobs, getJob } from '../support/reddis';
